@@ -1,0 +1,22 @@
+Traza 1
+Traza 2
+Entro
+Pilotes =0
+Entro bucle 0
+Mig
+Entro bucle 1
+Mig
+Entro bucle 2
+Mig
+N_pil= 3
+Surto
+Traza 4
+Traza 5
+Inicialitza joc: 
+	final2= 3539012
+		fi2 mur3= 0
+	id_win= 3571781
+	id_mis= 2850903
+id_mis= 2883672
+id_mis= 2916441
+Paleta:

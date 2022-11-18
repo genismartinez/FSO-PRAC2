@@ -1,0 +1,21 @@
+Traza 1
+Traza 2
+Entro
+n_fil= 35, n_col= 50, m_por= 20
+Pilotes =0
+Entro bucle 0
+Mig
+Entro bucle 1
+Mig
+Entro bucle 2
+Mig
+N_pil= 3
+Surto
+Traza 4
+Traza 5
+Comprovar bloc, n_pil= 3, pil= 0
+Comprovar bloc, n_pil= 3, pil= 1
+Comprovar bloc, n_pil= 3, pil= 2
+Comprovar bloc, n_pil= 3, pil= 3
+Traza 6
+Traza Final
